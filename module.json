@@ -1,10 +1,10 @@
 {
-  "id": "",
-  "title": "",
+  "id": "an-alternate-investigator",
+  "title": "An Alternate Investigator",
   "version": "#{VERSION}#",
   "library": "false",
   "compatibility": {
-    "minimum": "14",
+    "minimum": "13",
     "verified": "14",
     "maximum": "14"
   },
@@ -20,7 +20,7 @@
       }
     }
   },
-  "description": "",
+  "description": "An alternate take on the Investigator class in Pathfinder Second Edition, decoupling investigations from combat and allowing the class to make creature use of their Intelligence.",
   "authors": [
     {
       "name": "Teridax68",
@@ -29,9 +29,9 @@
   ],
   "packs": [
     {
-      "name": "",
-      "label": "",
-      "path": "packs/",
+      "name": "an-alternate-investigator",
+      "label": "An Alternate Investigator",
+      "path": "packs/an-alternate-investigator",
       "type": "Item",
       "system": "pf2e",
       "flags": {}
@@ -44,5 +44,5 @@
   "manifest": "#{MANIFEST}#",
   "download": "#{DOWNLOAD}#",
   "license": "LICENSE",
-  "readme": ""
+  "readme": "https://homebrewery.naturalcrit.com/share/tCKvLh5_D5wZ"
 }
